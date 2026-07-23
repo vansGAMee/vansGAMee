@@ -22,10 +22,10 @@ I am a software developer from **Russia** focused on building high-performance s
 
 | Project | System Architecture & Description | Technical Stack |
 | :--- | :--- | :--- |
-| 🛡️ **[MQ-Chess]([https://github.com](https://vansgamee.github.io/chess-insights/))** | Stress-free absolute chess rating calculations. Engineered with a high-performance computational native core and an automated API data collection layer. | `C++ (Core)` <br> `Python (API Parser)` |
-| 📊 **[chess-insights]([https://github.com](https://vansgamee.github.io/chess-insights/))** | A completely free standalone desktop alternative to Chess.com's premium Diamond analytics dashboard. Manages localized calculations and dynamic reporting. | `JavaScript (Logic)` <br> `Python` <br> `C++` <br> `JSON DB` |
-| 🔄 **[flag-replacer-extension]([[https://github.com])** | Lightweight client-side browser extension designed to inject and restore regional visual elements directly into the Chess.com interface. | `JavaScript (DOM Injection)` |
-| 🎨 **[drawing--board]([https://github.com](https://vansgamee.github.io/drawing--board/))** | Zero-dependency responsive web-based layout engine allowing users to dynamically design and generate pixel art directly inside the browser viewport. | `JavaScript` <br> `HTML5` / `CSS3` |
+| 🛡️ **[MQ-Chess](https://github.com)** | Stress-free absolute chess rating calculations. Engineered with a high-performance computational native core and an automated API data collection layer. | `C++ (Core)` <br> `Python (API Parser)` |
+| 📊 **[chess-insights](https://github.com)** | A completely free standalone desktop alternative to Chess.com's premium Diamond analytics dashboard. Manages localized calculations and dynamic reporting. | `JavaScript (Logic)` <br> `Python` <br> `C++` <br> `JSON DB` |
+| 🔄 **[flag-replacer-extension](https://github.com)** | Lightweight client-side browser extension designed to inject and restore regional visual elements directly into the Chess.com interface. | `JavaScript (DOM Injection)` |
+| 🎨 **[drawing--board](https://github.com)** | Zero-dependency responsive web-based layout engine allowing users to dynamically design and generate pixel art directly inside the browser viewport. | `JavaScript` <br> `HTML5` / `CSS3` |
 
 ---
 
