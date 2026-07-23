@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Ivan Kulkin! (aka @vansGAMee)
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -17,20 +13,17 @@ I am a software developer from **Russia** focused on building high-performance s
 
 ### 🛠️ Tech Stack & Toolbox
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="JSON" />
-</p>
-<p align="left">
-  <!-- Tools & Ecosystem -->
-  <img src="https://shields.io" alt="WinForms" />
-  <img src="https://shields.io" alt="Visual Studio" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub Pages" />
-</p>
+#### 💻 Programming Languages
+![](https://shields.io) 
+![](https://shields.io) 
+![](https://shields.io) 
+![](https://shields.io)
+
+#### 🔧 Frameworks & Tools
+![](https://shields.io) 
+![](https://shields.io) 
+![](https://shields.io) 
+![](https://shields.io)
 
 ---
 
@@ -45,19 +38,6 @@ I am a software developer from **Russia** focused on building high-performance s
 
 ---
 
-### 📊 Automated GitHub Analytics
-
-<p align="center">
-  <img src="https://vercel.app" alt="vansGAMee's GitHub stats" width="49%" />
-  <img src="https://vercel.app" alt="Top Languages" width="49%" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 * 📍 **Base Location:** Russia 🇷🇺
 * 🎯 **Open To:** Desktop application development, performance optimization tasks, and interactive front-end tools creation.
-
-<p align="right">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
