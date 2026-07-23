@@ -5,25 +5,16 @@
 ### 🚀 About Me
 I am a software developer from **Russia** focused on building high-performance systems, reverse-engineering platform APIs, and developing analytical desktop utilities. I specialize in backend architecture (`C++` cores), automation scripts (`Python`), and lightweight interactive web/browser applications.
 
-- 🛠️ **Core Expertise:** Native C++ development, asynchronous API parsing, and structured data handling using lightweight JSON databases.
-- ♟️ **Domain Focus:** Creating independent data-heavy analysis ecosystems for chess players that challenge paid commercial alternatives.
-- ⚡ **Fun Fact:** I build complex system cores on C++ to ensure microsecond-level calculation speeds.
+* 🛠️ **Core Expertise:** Native C++ development, asynchronous API parsing, and structured data handling using lightweight JSON databases.
+* ♟️ **Domain Focus:** Creating independent data-heavy analysis ecosystems for chess players that challenge paid commercial alternatives.
+* ⚡ **Fun Fact:** I build complex system cores on C++ to ensure microsecond-level calculation speeds.
 
 ---
 
 ### 🛠️ Tech Stack & Toolbox
 
-#### 💻 Programming Languages
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io)
-
-#### 🔧 Frameworks & Tools
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io)
+* **Programming Languages:** `C++` | `Python` | `JavaScript` | `JSON`
+* **Frameworks & Tools:** `WinForms` | `Visual Studio` | `Git` | `GitHub Pages`
 
 ---
 
