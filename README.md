@@ -14,12 +14,11 @@ I am a software developer from **Russia** focused on building high-performance s
 ### 🛠️ Tech Stack & Toolbox
 ---
 
-### 📊 GitHub Analytics (Автообновление)
 <p align="center">
-  <img src="https://github.com" alt="GitHub Stats" width="450" />
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
 </p>
-
----
 
 
 
