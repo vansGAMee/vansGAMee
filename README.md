@@ -12,10 +12,15 @@ I am a software developer from **Russia** focused on building high-performance s
 ---
 
 ### 🛠️ Tech Stack & Toolbox
+---
+
+### 📊 GitHub Analytics (Автообновление)
 <p align="center">
-  <img src="https://shields.io" alt="Followers"/>
-  <img src="https://shields.io" alt="Stars"/>
+  <img src="https://github.com" alt="GitHub Stats" width="450" />
 </p>
+
+---
+
 
 
 
