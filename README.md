@@ -8,23 +8,22 @@ I am a software developer from **Russia** focused on building high-performance s
 * 🛠️ **Core Expertise:** Native C++ development, asynchronous API parsing, and structured data handling using lightweight JSON databases.
 * ♟️ **Domain Focus:** Creating independent data-heavy analysis ecosystems for chess players that challenge paid commercial alternatives.
 * ⚡ **Fun Fact:** I build complex system cores on C++ to ensure microsecond-level calculation speeds.
+### ♟️ Интерактивный Квест: Найди лучший ход!
+> Позиция: Белый Король зажат, твой ход чёрными в миттельшпиле. Твои действия?
+
+<details>
+<summary><b>Вариант А: Сделать быстрый ход пешкой и сразу нажать «Сдаться»</b></summary>
+❌ <b>ACPL взлетает до 400!</b> Ты словил тильт. Тренер недоволен, рейтинг падает на -15. Попробуй подумать головой!
+</details>
+
+<details>
+<summary><b>Вариант Б: Потратить 30 секунд на расчёт и объявить жертву коня на h3</b></summary>
+✅ <b>ШЕДЕВР! Brilliant move!</b> Чужой фланг разгромлен, защита соперника рассыпалась. Твой Loss Index падает, а рейтинг растёт!
+</details>
 
 ---
 
 ### 🛠️ Tech Stack & Toolbox
----
-
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</p>
-
-
-
-
-
-
 * **Programming Languages:** `C++` | `Python` | `JavaScript` | `JSON`
 * **Frameworks & Tools:** `WinForms` | `Visual Studio` | `Git` | `GitHub Pages`
 
