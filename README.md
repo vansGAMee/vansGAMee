@@ -19,6 +19,7 @@ I am a software developer from **Russia** focused on building high-performance s
 
 
 
+
 * **Programming Languages:** `C++` | `Python` | `JavaScript` | `JSON`
 * **Frameworks & Tools:** `WinForms` | `Visual Studio` | `Git` | `GitHub Pages`
 
