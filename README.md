@@ -31,6 +31,8 @@ I am a software developer from **Russia** focused on building high-performance s
 ---
 
 ### 🏆 Featured Production Projects
+<img width="1853" height="803" alt="image" src="https://github.com/user-attachments/assets/06470253-14b6-41bf-bf92-c029b31c6c72" />
+
 
 | Project | System Architecture & Description | Technical Stack |
 | :--- | :--- | :--- |
