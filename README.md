@@ -12,6 +12,11 @@ I am a software developer from **Russia** focused on building high-performance s
 ---
 
 ### 🛠️ Tech Stack & Toolbox
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180"/>
+  <img src="https://vercel.app" alt="Top Langs" height="180"/>
+</p>
+
 
 * **Programming Languages:** `C++` | `Python` | `JavaScript` | `JSON`
 * **Frameworks & Tools:** `WinForms` | `Visual Studio` | `Git` | `GitHub Pages`
