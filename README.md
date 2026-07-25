@@ -1,12 +1,142 @@
-# 👋 Hi there, I'm Ivan Kulkin! (aka @vansGAMee) **High-Performance Systems Engineer | Native Core Developer | Mobile & Desktop Architect** [![GitHub followers](https://img.shields.io/github/followers/vansGAMee?style=social)](https://github.com/vansGAMee) [![Profile Views](https://komarev.com/ghpvc/?username=vansGAMee&color=blueviolet)]() 
---- ## 🚀 About Me I am a systems-focused software developer from **Russia** who architects **sub-millisecond native solutions** across mobile and desktop platforms. I specialize in building zero-latency offline engines, reverse-engineering platform APIs, and designing analytical tools that outperform commercial alternatives. * 🛠️ **Core Expertise:** Native Rust/C++ kernel development, JNI bridge architecture, memory-mapped I/O (`mmap`), and binary search optimization at the microsecond level. * 📱 **Mobile Systems:** Full-cycle Android development with Rust native cores + Kotlin/Jetpack Compose frontends, cross-compiled via `cargo-ndk`. * ♟️ **Domain Focus:** Creating independent, data-heavy analysis ecosystems (chess analytics, product scanning) that challenge paid SaaS products through pure offline performance. * ⚡ **Performance Obsession:** I design systems where every nanosecond matters — from `O(log N)` binary search over `mmap`'d flat files to zero-allocation Rust kernels. --- ### ♟️ Interactive Quest: Find the Best Move! > Position: The enemy King is exposed, it's your turn as Black in the middlegame. What is your move? Option A: Make a rushed pawn move and immediately hit "Resign" ❌ **ACPL skyrockets to 400!** You have officially tilted. Your coach is disappointed, and your rating drops by -15. Hands off the mouse, calculate first! Option B: Spend 30 seconds calculating and execute a Knight sacrifice on h3 ✅ **BRILLIANT MOVE!! 💎** The enemy kingside is completely shattered, and your opponent's defense crumbles. Your Loss Index drops, and your rating goes up! --- ## 🛠️ Tech Stack & Toolbox **Systems & Native** ``` Rust │ C++ │ C │ JNI │ NDK │ mmap │ Binary Protocols │ Zero-Copy Architecture ``` **Mobile & Frontend** ``` Kotlin │ Jetpack Compose │ Android SDK │ JavaScript │ HTML5/CSS3 │ DOM APIs ``` **Automation & Data** ``` Python │ Asyncio │ REST API Parsing │ JSON │ Flat Binary Serialization ``` **Tooling & DevOps** ``` Git │ GitHub Actions │ Gradle │ cargo-ndk │ Android Studio │ Linux/Arch ``` --- ## 🏆 Featured Production Projects 
- 
-### 🥇 Flagship: OfflineScanner [![Rust](https://img.shields.io/badge/Rust-1.85+-orange.svg)](https://www.rust-lang.org/) [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-blueviolet.svg)](https://kotlinlang.org/) [![Platform](https://img.shields.io/badge/Android-ARM64-brightgreen.svg)]() [![Performance](https://img.shields.io/badge/Search-%3C1%20μs-red.svg)]() **Hyper-fast offline product scanner for Android.** 1,000,000 products searched in under 1 microsecond. Zero network dependency. 13 MB total footprint. * **Architecture:** Rust native kernel (`libproduct_lib.so`) + Kotlin/Jetpack Compose UI via JNI * **Storage:** Custom flat binary format (13 bytes/record) with `mmap` — no SQLite, no LMDB, zero overhead * **Performance:** `O(log N)` binary search, cold start ~15 ms, RAM ~20 MB * **Use Case:** Warehouses, retail floors, and field conditions where internet is unavailable or unstable * **Open Source:** MIT License, ready for commercial deployment > **Why it matters:** I didn't just build an app — I proved that a custom binary protocol on `mmap` outperforms industrial databases (SQLite, LMDB) by eliminating parsing, transactions, and B-tree overhead. This is systems thinking applied to mobile. --- | Project | System Architecture & Description | Technical Stack | | :--- | :--- | :--- | | 🛡️ **[MQ-Chess](https://github.com)** | Stress-free absolute chess rating calculations. Engineered with a high-performance computational native core and an automated API data collection layer. | `C++ (Core)` 
-`Python (API Parser)` | | 📊 **[chess-insights](https://github.com)** | A completely free standalone desktop alternative to Chess.com's premium Diamond analytics dashboard. Manages localized calculations and dynamic reporting. | `JavaScript (Logic)` 
-`Python` 
-`C++` 
-`JSON DB` | | 🔄 **[flag-replacer-extension](https://github.com)** | Lightweight client-side browser extension designed to inject and restore regional visual elements directly into the Chess.com interface. | `JavaScript (DOM Injection)` | | 🎨 **[drawing--board](https://github.com)** | Zero-dependency responsive web-based layout engine allowing users to dynamically design and generate pixel art directly inside the browser viewport. | `JavaScript` 
-`HTML5` / `CSS3` | --- ## 💼 What I Bring to Your Team | Strength | Evidence | |----------|----------| | **Native Performance Engineering** | Built a Rust kernel that searches 1M records in <1 μs — faster than SQLite/LMDB by design | | **Cross-Platform Architecture** | Comfortable bridging Rust ↔ Kotlin via JNI, C++ ↔ Python, JS ↔ Browser APIs | | **Data Pipeline Design** | End-to-end: Python API scraper → flat binary serializer → `mmap` consumer → mobile UI | | **Zero-Dependency Mindset** | Custom binary protocols instead of ORMs; `mmap` instead of database engines when appropriate | | **Product Thinking** | Every project solves a real user pain (offline scanning, free chess analytics, browser customization) | | **Open Source Discipline** | MIT-licensed, documented, CI-ready projects with reproducible builds | --- ## 📊 GitHub Stats 
-  
---- ## 🤝 Let's Connect * 📍 **Base Location:** Russia 🇷🇺 * 🎯 **Open To:** * Native systems development (Rust/C++/C kernels) * High-performance mobile architecture (Android NDK, JNI bridges) * Embedded & offline-first applications * Performance optimization and zero-copy data pipelines * Interactive analytical tools and data visualization * 📧 **Reach me via:** [GitHub Issues](https://github.com/vansGAMee) on any of my projects --- 
-**Built with ❤️, Rust, and an obsession for microsecond-level performance.** *"The best code is the code that never runs — but when it has to, it runs in under a microsecond."* 
+<div align="center">
+
+# 👋 Hi there, I'm Ivan Kulkin! (aka @vansGAMee)
+
+**High-Performance Systems Engineer | Native Core Developer | Mobile & Desktop Architect**
+
+[![GitHub followers](https://img.shields.io/github/followers/vansGAMee?style=social)](https://github.com/vansGAMee)
+[![Profile Views](https://komarev.com/ghpvc/?username=vansGAMee&color=blueviolet)]()
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I am a systems-focused software developer from **Russia** who architects **sub-millisecond native solutions** across mobile and desktop platforms. I specialize in building zero-latency offline engines, reverse-engineering platform APIs, and designing analytical tools that outperform commercial alternatives.
+
+* 🛠️ **Core Expertise:** Native Rust/C++ kernel development, JNI bridge architecture, memory-mapped I/O (`mmap`), and binary search optimization at the microsecond level.
+* 📱 **Mobile Systems:** Full-cycle Android development with Rust native cores + Kotlin/Jetpack Compose frontends, cross-compiled via `cargo-ndk`.
+* ♟️ **Domain Focus:** Creating independent, data-heavy analysis ecosystems (chess analytics, product scanning) that challenge paid SaaS products through pure offline performance.
+* ⚡ **Performance Obsession:** I design systems where every nanosecond matters — from `O(log N)` binary search over `mmap`'d flat files to zero-allocation Rust kernels.
+
+---
+
+### ♟️ Interactive Quest: Find the Best Move!
+> Position: The enemy King is exposed, it's your turn as Black in the middlegame. What is your move?
+
+<details>
+<summary><b>Option A: Make a rushed pawn move and immediately hit "Resign"</b></summary>
+
+❌ **ACPL skyrockets to 400!** You have officially tilted. Your coach is disappointed, and your rating drops by -15. Hands off the mouse, calculate first!
+</details>
+
+<details>
+<summary><b>Option B: Spend 30 seconds calculating and execute a Knight sacrifice on h3</b></summary>
+
+✅ **BRILLIANT MOVE!! 💎** The enemy kingside is completely shattered, and your opponent's defense crumbles. Your Loss Index drops, and your rating goes up!
+</details>
+
+---
+
+## 🛠️ Tech Stack & Toolbox
+
+**Systems & Native**
+```
+Rust │ C++ │ C │ JNI │ NDK │ mmap │ Binary Protocols │ Zero-Copy Architecture
+```
+
+**Mobile & Frontend**
+```
+Kotlin │ Jetpack Compose │ Android SDK │ JavaScript │ HTML5/CSS3 │ DOM APIs
+```
+
+**Automation & Data**
+```
+Python │ Asyncio │ REST API Parsing │ JSON │ Flat Binary Serialization
+```
+
+**Tooling & DevOps**
+```
+Git │ GitHub Actions │ Gradle │ cargo-ndk │ Android Studio │ Linux/Arch
+```
+
+---
+
+## 🏆 Featured Production Projects
+
+<div align="center">
+  <img width="90%" alt="Project Showcase" src="https://github.com/user-attachments/assets/06470253-14b6-41bf-bf92-c029b31c6c72" />
+</div>
+
+### 🥇 Flagship: OfflineScanner
+[![Rust](https://img.shields.io/badge/Rust-1.85+-orange.svg)](https://www.rust-lang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-blueviolet.svg)](https://kotlinlang.org/)
+[![Platform](https://img.shields.io/badge/Android-ARM64-brightgreen.svg)]()
+[![Performance](https://img.shields.io/badge/Search-%3C1%20μs-red.svg)]()
+
+**Hyper-fast offline product scanner for Android.**  
+1,000,000 products searched in under 1 microsecond. Zero network dependency. 13 MB total footprint.
+
+* **Architecture:** Rust native kernel (`libproduct_lib.so`) + Kotlin/Jetpack Compose UI via JNI
+* **Storage:** Custom flat binary format (13 bytes/record) with `mmap` — no SQLite, no LMDB, zero overhead
+* **Performance:** `O(log N)` binary search, cold start ~15 ms, RAM ~20 MB
+* **Use Case:** Warehouses, retail floors, and field conditions where internet is unavailable or unstable
+* **Open Source:** MIT License, ready for commercial deployment
+
+> **Why it matters:** I didn't just build an app — I proved that a custom binary protocol on `mmap` outperforms industrial databases (SQLite, LMDB) by eliminating parsing, transactions, and B-tree overhead. This is systems thinking applied to mobile.
+
+---
+
+| Project | System Architecture & Description | Technical Stack |
+| :--- | :--- | :--- |
+| 🛡️ **[MQ-Chess](https://github.com)** | Stress-free absolute chess rating calculations. Engineered with a high-performance computational native core and an automated API data collection layer. | `C++ (Core)` <br> `Python (API Parser)` |
+| 📊 **[chess-insights](https://github.com)** | A completely free standalone desktop alternative to Chess.com's premium Diamond analytics dashboard. Manages localized calculations and dynamic reporting. | `JavaScript (Logic)` <br> `Python` <br> `C++` <br> `JSON DB` |
+| 🔄 **[flag-replacer-extension](https://github.com)** | Lightweight client-side browser extension designed to inject and restore regional visual elements directly into the Chess.com interface. | `JavaScript (DOM Injection)` |
+| 🎨 **[drawing--board](https://github.com)** | Zero-dependency responsive web-based layout engine allowing users to dynamically design and generate pixel art directly inside the browser viewport. | `JavaScript` <br> `HTML5` / `CSS3` |
+
+---
+
+## 💼 What I Bring to Your Team
+
+| Strength | Evidence |
+|----------|----------|
+| **Native Performance Engineering** | Built a Rust kernel that searches 1M records in <1 μs — faster than SQLite/LMDB by design |
+| **Cross-Platform Architecture** | Comfortable bridging Rust ↔ Kotlin via JNI, C++ ↔ Python, JS ↔ Browser APIs |
+| **Data Pipeline Design** | End-to-end: Python API scraper → flat binary serializer → `mmap` consumer → mobile UI |
+| **Zero-Dependency Mindset** | Custom binary protocols instead of ORMs; `mmap` instead of database engines when appropriate |
+| **Product Thinking** | Every project solves a real user pain (offline scanning, free chess analytics, browser customization) |
+| **Open Source Discipline** | MIT-licensed, documented, CI-ready projects with reproducible builds |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansGAMee&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansGAMee&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+* 📍 **Base Location:** Russia 🇷🇺
+* 🎯 **Open To:**
+  * Native systems development (Rust/C++/C kernels)
+  * High-performance mobile architecture (Android NDK, JNI bridges)
+  * Embedded & offline-first applications
+  * Performance optimization and zero-copy data pipelines
+  * Interactive analytical tools and data visualization
+
+* 📧 **Reach me via:** [GitHub Issues](https://github.com/vansGAMee) on any of my projects
+
+---
+
+<div align="center">
+
+**Built with ❤️, Rust, and an obsession for microsecond-level performance.**
+
+*"The best code is the code that never runs — but when it has to, it runs in under a microsecond."*
+
+</div>
