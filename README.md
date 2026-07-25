@@ -110,12 +110,28 @@ Git │ GitHub Actions │ Gradle │ cargo-ndk │ Android Studio │ Linux/Arc
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansGAMee&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansGAMee&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
+---
+
+## 🌍 Open Source Contributions
+
+I actively contribute to established open-source projects, following strict contribution guidelines and code-review workflows.
+
+### [Hydra Launcher](https://github.com/hydralauncher/hydra) — Localization Enhancement
+
+**Merged PR:** `fix(l10n): corrected Russian grammar, missing strings and date format`
+
+* **Scope:** Enhanced Russian localization (`ru`) across the main UI and Big Picture interface.
+* **Improvements delivered:**
+  * Corrected grammatical inconsistencies and untranslated labels in the home screen and profile sections.
+  * Added missing translation strings for user-profile controls and accessibility text.
+  * Standardized date-time display to the proper Russian dotted format.
+  * Localized storage units and game-asset terminology for native UX.
+* **Quality assurance:** Passed automated CI checks (SonarQube, Greptile analysis with 5/5 confidence) and received maintainer approval (`LGTM`) before merge into `main`.
+
+> **What this shows:** I can read, navigate, and improve large foreign codebases; I respect project conventions, write clean commits, and deliver production-ready patches that survive rigorous review.
+
+---
 
 ---
 
