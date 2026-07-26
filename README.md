@@ -76,6 +76,8 @@ Git │ GitHub Actions │ Gradle │ cargo-ndk │ Android Studio │ Linux/Arc
 [![Performance](https://img.shields.io/badge/Search-%3C1%20μs-red.svg)]()
 
 **Hyper-fast offline product scanner for Android.**  
+<img width="374" height="832" alt="image" src="https://github.com/user-attachments/assets/e06cbf67-77db-4c0c-95e1-ea86e6c96bd0" />
+
 1,000,000 products searched in under 1 microsecond. Zero network dependency. 13 MB total footprint.
 
 * **Architecture:** Rust native kernel (`libproduct_lib.so`) + Kotlin/Jetpack Compose UI via JNI
