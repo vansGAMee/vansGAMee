@@ -1,160 +1,171 @@
 <div align="center">
 
-# 👋 Hi there, I'm Ivan Kulkin! (aka @vansGAMee)
+# 👨‍💻 Ivan Kulkin (`vansGAMee`)
+### **Software Engineer • Systems • AI Automation • Full-Stack Web**
 
-**High-Performance Systems Engineer | Native Core Developer | Mobile & Desktop Architect**
+<p align="center">
+  <a href="https://github.com/vansGAMee"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+high-performance+web+instruments;Crafting+autonomous+AI+agents+%26+scrapers;Engineered+with+C%2B%2B%2C+TypeScript+%26+Python;Minimalist+design+%2B+zero-friction+UX" alt="Typing SVG" /></a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/vansGAMee?style=social)](https://github.com/vansGAMee)
-[![Profile Views](https://komarev.com/ghpvc/?username=vansGAMee&color=blueviolet)]()
+<p align="center">
+  <a href="https://github.com/vansGAMee?tab=repositories"><img src="https://img.shields.io/github/followers/vansGAMee?label=Followers&style=flat-square&color=238636&logo=github" alt="GitHub Followers" /></a>
+  <a href="https://github.com/vansGAMee"><img src="https://img.shields.io/github/stars/vansGAMee?label=Total%20Stars&style=flat-square&color=e3b341&logo=star" alt="GitHub Stars" /></a>
+  <a href="https://github.com/vansGAMee"><img src="https://komarev.com/ghpvc/?username=vansGAMee&style=flat-square&color=0284c7&label=Profile+Views" alt="Profile Views" /></a>
+  <a href="https://oklchpalette.ru"><img src="https://img.shields.io/badge/Live_Project-oklchpalette.ru-06b6d4?style=flat-square&logo=vercel" alt="Live Project" /></a>
+</p>
+
+---
 
 </div>
 
----
+## 🧭 About Me
 
-## 🚀 About Me
-
-I am a systems-focused software developer from **Russia** who architects **sub-millisecond native solutions** across mobile and desktop platforms. I specialize in building zero-latency offline engines, reverse-engineering platform APIs, and designing analytical tools that outperform commercial alternatives.
-
-* 🛠️ **Core Expertise:** Native Rust/C++ kernel development, JNI bridge architecture, memory-mapped I/O (`mmap`), and binary search optimization at the microsecond level.
-* 📱 **Mobile Systems:** Full-cycle Android development with Rust native cores + Kotlin/Jetpack Compose frontends, cross-compiled via `cargo-ndk`.
-* ♟️ **Domain Focus:** Creating independent, data-heavy analysis ecosystems (chess analytics, product scanning) that challenge paid SaaS products through pure offline performance.
-* ⚡ **Performance Obsession:** I design systems where every nanosecond matters — from `O(log N)` binary search over `mmap`'d flat files to zero-allocation Rust kernels.
+- ⚡ **Focus Areas**: High-performance client-side applications, autonomous automation agents, color-science tools, and data-driven systems.
+- ♟️ **Domain Passion**: Chess analytics, algorithmic engine analysis, precision game UI, and pixel art tooling.
+- 🛠️ **Philosophy**: *Zero fluff, tactile responsiveness, local-first architecture, clean minimalism.*
 
 ---
 
-### ♟️ Interactive Quest: Find the Best Move!
-> Position: The enemy King is exposed, it's your turn as Black in the middlegame. What is your move?
+## 🚀 Featured Projects & Real Cases
 
-<details>
-<summary><b>Option A: Make a rushed pawn move and immediately hit "Resign"</b></summary>
-
-❌ **ACPL skyrockets to 400!** You have officially tilted. Your coach is disappointed, and your rating drops by -15. Hands off the mouse, calculate first!
-</details>
-
-<details>
-<summary><b>Option B: Spend 30 seconds calculating and execute a Knight sacrifice on h3</b></summary>
-
-✅ **BRILLIANT MOVE!! 💎** The enemy kingside is completely shattered, and your opponent's defense crumbles. Your Loss Index drops, and your rating goes up!
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">♟️ <a href="https://github.com/vansGAMee/veyrn_chess">veyrn_chess</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/P2P_Engine-000000?style=flat-square&logo=webrtc&logoColor=white" />
+        <img src="https://img.shields.io/badge/Minimalist_UI-0284c7?style=flat-square" />
+      </p>
+      <p>Precision Digital Chess Instrument. Высокопроизводительная платформа с фокусом на тактильный отклик, чистейший минимализм и zero-latency P2P мультиплеер без промежуточных серверов.</p>
+      <ul>
+        <li>Мгновенный отклик и тактильные микро-анимации</li>
+        <li>Peer-to-peer синхронизация состояния доски</li>
+        <li>Zero-bloat архитектура</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 <a href="https://github.com/vansGAMee/OKLCH-PIXEL-PALETTE">OKLCH-PIXEL-PALETTE</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live-oklchpalette.ru-06b6d4?style=flat-square" />
+      </p>
+      <p>Open-source генератор 4-цветовых палитр в цветовом пространстве OKLCH для pixel art и геймдева с учетом гармоний, gamut-safe ограничений и экспорта в Aseprite / PNG.</p>
+      <ul>
+        <li>Перцептивно равномерное смешивание цветов (OKLCH)</li>
+        <li>Прямой экспорт в формат <code>.gpl</code>, <code>.pal</code> и PNG</li>
+        <li>Интеграция с базой данных Supabase</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/vansGAMee/free-agent">free-agent</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/Local--First-8b5cf6?style=flat-square" />
+      </p>
+      <p>Бесплатный автономный кодинг-агент на базе DeepSeek Web. Генерация структуры файлов, безопасный запуск команд сборки, верификация тестов и авто-восстановление без платных API ключей.</p>
+      <ul>
+        <li>Browser-driven автоматизация и sandbox-исполнение</li>
+        <li>Цикл самопроверки сборки и авто-фиксов ошибок</li>
+        <li>Полная локальная независимость от платных API</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 <a href="https://github.com/vansGAMee/chess-insights">chess-insights</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Analytics-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Live_Demo-vansgamee.github.io-success?style=flat-square" />
+      </p>
+      <p>Бесплатный открытый аналог Diamond-аналитики chess.com. Модуль статистической обработки партий, вычисление реального перформанса, выявление паттернов ошибок и метрик аккуратности.</p>
+      <ul>
+        <li>C++ ядро для скоростного парсинга PGN и позиции</li>
+        <li>Расчет метрик точности ходов и зон риска</li>
+        <li>Интерактивный дашборд визуализации статистики</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 <a href="https://github.com/vansGAMee/OfflineScanner">OfflineScanner</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Release-v0.1.0_beta-blue?style=flat-square" />
+      </p>
+      <p>Нативный сверхбыстрый мобильный сканер штрихкодов и продуктов, работающий на 100% офлайн с локальной базой индексов и моментальным откликом камеры.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖌️ <a href="https://github.com/vansGAMee/drawing--board">drawing--board</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live-GitHub_Pages-22c55e?style=flat-square" />
+      </p>
+      <p>Легковесный браузерный редактор пиксельной графики на нативном HTML5 Canvas без внешних тяжелых зависимостей. Инструменты слоев, палитры и мгновенный экспорт.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack & Toolbox
 
-**Systems & Native**
-```
-Rust │ C++ │ C │ JNI │ NDK │ mmap │ Binary Protocols │ Zero-Copy Architecture
-```
-
-**Mobile & Frontend**
-```
-Kotlin │ Jetpack Compose │ Android SDK │ JavaScript │ HTML5/CSS3 │ DOM APIs
-```
-
-**Automation & Data**
-```
-Python │ Asyncio │ REST API Parsing │ JSON │ Flat Binary Serialization
-```
-
-**Tooling & DevOps**
-```
-Git │ GitHub Actions │ Gradle │ cargo-ndk │ Android Studio │ Linux/Arch
-```
-
----
-
-## 🏆 Featured Production Projects
-
 <div align="center">
-  <img width="90%" alt="Project Showcase" src="https://github.com/user-attachments/assets/06470253-14b6-41bf-bf92-c029b31c6c72" />
+
+| Категория | Технологии & Инструменты |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend & UI** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5 Canvas](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Automation & QA** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Scraping_Bots-orange?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-8b5cf6?style=flat-square) |
+| **DevOps & Platforms**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
 </div>
 
-### 🥇 Flagship: OfflineScanner
-[![Rust](https://img.shields.io/badge/Rust-1.85+-orange.svg)](https://www.rust-lang.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-blueviolet.svg)](https://kotlinlang.org/)
-[![Platform](https://img.shields.io/badge/Android-ARM64-brightgreen.svg)]()
-[![Performance](https://img.shields.io/badge/Search-%3C1%20μs-red.svg)]()
+---
 
-**Hyper-fast offline product scanner for Android.**  
-<img width="374" height="832" alt="image" src="https://github.com/user-attachments/assets/e06cbf67-77db-4c0c-95e1-ea86e6c96bd0" />
+## 📈 Activity & GitHub Analytics
 
-1,000,000 products searched in under 1 microsecond. Zero network dependency. 13 MB total footprint.
+<div align="center">
 
-* **Architecture:** Rust native kernel (`libproduct_lib.so`) + Kotlin/Jetpack Compose UI via JNI
-* **Storage:** Custom flat binary format (13 bytes/record) with `mmap` — no SQLite, no LMDB, zero overhead
-* **Performance:** `O(log N)` binary search, cold start ~15 ms, RAM ~20 MB
-* **Use Case:** Warehouses, retail floors, and field conditions where internet is unavailable or unstable
-* **Open Source:** MIT License, ready for commercial deployment
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansGAMee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165" alt="Ivan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansGAMee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
+</p>
 
-> **Why it matters:** I didn't just build an app — I proved that a custom binary protocol on `mmap` outperforms industrial databases (SQLite, LMDB) by eliminating parsing, transactions, and B-tree overhead. This is systems thinking applied to mobile.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansGAMee&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</p>
+
+</div>
 
 ---
 
-| Project | System Architecture & Description | Technical Stack |
-| :--- | :--- | :--- |
-| 🛡️ **[MQ-Chess](https://github.com)** | Stress-free absolute chess rating calculations. Engineered with a high-performance computational native core and an automated API data collection layer. | `C++ (Core)` <br> `Python (API Parser)` |
-| 📊 **[chess-insights](https://github.com)** | A completely free standalone desktop alternative to Chess.com's premium Diamond analytics dashboard. Manages localized calculations and dynamic reporting. | `JavaScript (Logic)` <br> `Python` <br> `C++` <br> `JSON DB` |
-| 🔄 **[flag-replacer-extension](https://github.com)** | Lightweight client-side browser extension designed to inject and restore regional visual elements directly into the Chess.com interface. | `JavaScript (DOM Injection)` |
-| 🎨 **[drawing--board](https://github.com)** | Zero-dependency responsive web-based layout engine allowing users to dynamically design and generate pixel art directly inside the browser viewport. | `JavaScript` <br> `HTML5` / `CSS3` |
+## 🌐 Live Demos & Work
 
----
-
-## 💼 What I Bring to Your Team
-
-| Strength | Evidence |
-|----------|----------|
-| **Native Performance Engineering** | Built a Rust kernel that searches 1M records in <1 μs — faster than SQLite/LMDB by design |
-| **Cross-Platform Architecture** | Comfortable bridging Rust ↔ Kotlin via JNI, C++ ↔ Python, JS ↔ Browser APIs |
-| **Data Pipeline Design** | End-to-end: Python API scraper → flat binary serializer → `mmap` consumer → mobile UI |
-| **Zero-Dependency Mindset** | Custom binary protocols instead of ORMs; `mmap` instead of database engines when appropriate |
-| **Product Thinking** | Every project solves a real user pain (offline scanning, free chess analytics, browser customization) |
-| **Open Source Discipline** | MIT-licensed, documented, CI-ready projects with reproducible builds |
-
----
-
-
----
-
-## 🌍 Open Source Contributions
-
-I actively contribute to established open-source projects, following strict contribution guidelines and code-review workflows.
-
-### [Hydra Launcher](https://github.com/hydralauncher/hydra) — Localization Enhancement
-
-**Merged PR:** `fix(l10n): corrected Russian grammar, missing strings and date format`
-
-* **Scope:** Enhanced Russian localization (`ru`) across the main UI and Big Picture interface.
-* **Improvements delivered:**
-  * Corrected grammatical inconsistencies and untranslated labels in the home screen and profile sections.
-  * Added missing translation strings for user-profile controls and accessibility text.
-  * Standardized date-time display to the proper Russian dotted format.
-  * Localized storage units and game-asset terminology for native UX.
-* **Quality assurance:** Passed automated CI checks (SonarQube, Greptile analysis with 5/5 confidence) and received maintainer approval (`LGTM`) before merge into `main`.
-
-> **What this shows:** I can read, navigate, and improve large foreign codebases; I respect project conventions, write clean commits, and deliver production-ready patches that survive rigorous review.
-
----
-
----
-
-## 🤝 Let's Connect
-
-* 📍 **Base Location:** Russia 🇷🇺
-* 🎯 **Open To:**
-  * Native systems development (Rust/C++/C kernels)
-  * High-performance mobile architecture (Android NDK, JNI bridges)
-  * Embedded & offline-first applications
-  * Performance optimization and zero-copy data pipelines
-  * Interactive analytical tools and data visualization
-
-* 📧 **Reach me via:** [GitHub Issues](https://github.com/vansGAMee) on any of my projects
+- 🔮 **[OKLCH Pixel Palette](https://oklchpalette.ru)** — Web palette studio for pixel artists
+- ♟️ **[Chess Insights](https://vansgamee.github.io/chess-insights/)** — In-depth chess performance engine
+- 🎨 **[Drawing Board](https://vansgamee.github.io/drawing--board/)** — Lightweight native pixel drawing tool
+- 🍕 **[Shaverma Platform](https://shaverma-platform.vercel.app)** — Commercial fast ordering web app
+- 📚 **[BookGuessr](https://book-guessr-one.vercel.app)** — Interactive literary guessing game
 
 ---
 
 <div align="center">
 
-**Built with ❤️, Rust, and an obsession for microsecond-level performance.**
+### 🤝 Let's Connect & Build
 
-*"The best code is the code that never runs — but when it has to, it runs in under a microsecond."*
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vansgame)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansGAMee)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ytivan4567@gmail.com)
+
+<br />
+
+<sub>*Crafted with clean code, modern UX principles, and zero bloat.*</sub>
 
 </div>
