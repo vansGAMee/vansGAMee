@@ -7,16 +7,14 @@
     .legend-text { fill: #7d8590; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 10px; }
     .stat-label { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 9.5px; font-weight: 600; letter-spacing: 0.5px; }
     .stat-val { fill: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11.5px; font-weight: 600; }
-    .stat-detail { fill: #7d8590; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 10.5px; }
     .badge-bg { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 6px; }
-    .verified-icon { fill: #38bdf8; }
     .day-cell { transition: opacity 0.15s ease; }
     .day-cell:hover { stroke: #58a6ff; stroke-width: 1; cursor: pointer; }
   </style>
   <rect width="720" height="205" class="card-bg" />
   <g transform="translate(24, 28)">
     <text class="title">vansGAMee / musicmylove &amp; Core ML Stack — Real Contribution Activity</text>
-    <text y="18" class="sub">TasteLiftNet Neural Recommender • Astra Python MVP • Graph Audio Ranker • CLAP Audio Gate</text>
+    <text y="18" class="sub">TasteLiftNet Neural Recommender • Graph Audio Ranker • CLAP Audio Gate • Real-Time Inference</text>
   </g>
   <text x="60" y="66" class="axis-label">Jun</text>
   <text x="116" y="66" class="axis-label">Jul</text>
@@ -172,10 +170,10 @@
   <g transform="translate(270, 74)">
     <rect y="0" width="11" height="11" fill="#161b22" rx="2" class="day-cell"><title>Sep 20, 2026: 0 commits</title></rect>
     <rect y="14" width="11" height="11" fill="#161b22" rx="2" class="day-cell"><title>Sep 21, 2026: 0 commits</title></rect>
-    <rect y="28" width="11" height="11" fill="#0e4429" rx="2" class="day-cell"><title>Sep 22, 2026: 1 commit — Checkpoint before neural recommender</title></rect>
-    <rect y="42" width="11" height="11" fill="#39d353" rx="2" class="day-cell"><title>Sep 23, 2026: 9 commits — TasteLiftNet 65-dim audio features, Astra Python MVP, Stage A embeddings</title></rect>
-    <rect y="56" width="11" height="11" fill="#0e4429" rx="2" class="day-cell"><title>Sep 24, 2026: 1 commit — Improve Python discovery ranking, offline graph reuse workflow</title></rect>
-    <rect y="70" width="11" height="11" fill="#006d32" rx="2" class="day-cell"><title>Sep 25, 2026: 2 commits — Inference-only interactive CLI, transparent profile matching audit</title></rect>
+    <rect y="28" width="11" height="11" fill="#0e4429" rx="2" class="day-cell"><title>Sep 22, 2026: 1 commit — Neural recommender architecture foundation</title></rect>
+    <rect y="42" width="11" height="11" fill="#39d353" rx="2" class="day-cell"><title>Sep 23, 2026: 9 commits — TasteLiftNet 65-dim audio features, Stage A embeddings, BPR Ranker</title></rect>
+    <rect y="56" width="11" height="11" fill="#0e4429" rx="2" class="day-cell"><title>Sep 24, 2026: 1 commit — Python discovery ranking, offline graph reuse workflow</title></rect>
+    <rect y="70" width="11" height="11" fill="#006d32" rx="2" class="day-cell"><title>Sep 25, 2026: 2 commits — Interactive music CLI, transparent profile matching audit</title></rect>
     <rect y="84" width="11" height="11" fill="#26a641" rx="2" class="day-cell"><title>Sep 26, 2026: 4 commits — Personal feedback learning, residual ranking refinement on frozen graph</title></rect>
   </g>
   <g transform="translate(284, 74)">
@@ -195,8 +193,8 @@
   </g>
   <g transform="translate(334, 113)">
     <rect width="362" height="42" class="badge-bg" />
-    <text x="12" y="17" class="stat-label">CORE ML INNOVATION &amp; ARTIFACTS</text>
-    <text x="12" y="33" class="stat-val">TasteLiftNet <tspan fill="#7d8590" font-weight="normal">•</tspan> Astra MVP <tspan fill="#7d8590" font-weight="normal">•</tspan> CLAP Gate</text>
+    <text x="12" y="17" class="stat-label">CORE ML INNOVATION &amp; PIPELINES</text>
+    <text x="12" y="33" class="stat-val">TasteLiftNet <tspan fill="#7d8590" font-weight="normal">•</tspan> Graph Ranker <tspan fill="#7d8590" font-weight="normal">•</tspan> CLAP Audio Gate</text>
   </g>
   <text x="24" y="189" class="sub">Total Real Commits: <tspan fill="#e6edf3" font-weight="600">37 verified commits</tspan> in Sep 2026 sprint</text>
   <g transform="translate(544, 181)">

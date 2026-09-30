@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👨‍💻 Ivan Kulkin (`vansGAMee`)
-### **Software Engineer • Systems • AI Automation • Full-Stack Web**
+### **Software Engineer • Systems • Machine Learning • Full-Stack Web**
 
 <p align="center">
-  <a href="https://github.com/vansGAMee"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+high-performance+web+instruments;Crafting+autonomous+AI+agents+%26+scrapers;Engineering+systems+with+C%2B%2B+%26+TypeScript;Designing+local-first%2C+minimalist+interfaces" alt="Typing SVG" /></a>
+  <a href="https://github.com/vansGAMee"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+high-performance+web+instruments;Engineering+systems+with+C%2B%2B+%26+TypeScript;Developing+graph+%26+audio+neural+rankers;Designing+local-first%2C+minimalist+interfaces" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🧭 About Me
 
-- ⚡ **Focus Areas**: High-performance client-side applications, autonomous automation agents, color-science tools, and data-driven systems.
+- ⚡ **Focus Areas**: High-performance client-side applications, audio & graph neural architectures, color-science tools, and systems programming.
 - ♟️ **Domain Passion**: Chess analytics, algorithmic engine analysis, precision game UI, and pixel art tooling.
 - 🛠️ **Philosophy**: *Zero fluff, tactile responsiveness, local-first architecture, clean minimalism.*
 
@@ -43,7 +43,7 @@
       <h3 align="center">🎵 <a href="https://github.com/vansGAMee/musicmylove">musicmylove</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML%2FAI-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Neural_Ranker-8b5cf6?style=flat-square" />
         <img src="https://img.shields.io/badge/GPU_Optimized-ffaa00?style=flat-square&logo=nvidia&logoColor=white" />
       </p>
       <p>Комплексная ML-платформа музыкальных рекомендаций на графах. Пайплайн обработки аудио, GPU-оптимизированное обучение ранжировщиков и движок инференса в браузере.</p>
@@ -51,13 +51,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/vansGAMee/free-agent">free-agent</a></h3>
+      <h3 align="center">🎛️ <a href="https://github.com/vansGAMee/Saudade">Saudade</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-        <img src="https://img.shields.io/badge/Local--First-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/C++23-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Audio_Engine-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Linux--First-FCC624?style=flat-square&logo=linux&logoColor=black" />
       </p>
-      <p>Бесплатный автономный кодинг-агент на базе DeepSeek Web. Генерация структуры файлов, безопасный запуск команд сборки, верификация тестов и авто-восстановление без API ключей.</p>
+      <p>Linux-first open-source профессиональная цифровая звуковая рабочая станция (DAW) на C++23 с realtime-safe звуковым движком и низкой задержкой обработки аудиосигналов.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📊 <a href="https://github.com/vansGAMee/chess-insights">chess-insights</a></h3>
@@ -84,7 +84,7 @@
 
 <!-- СТАНДАРТНАЯ СТАТИСТИКА -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vansGAMee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vansGAMee&show_icons=true&hide_rank=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vansGAMee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="180" alt="Top Languages" />
 </p>
 
@@ -100,7 +100,7 @@
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Canvas](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Backend & ML** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![ML/AI](https://img.shields.io/badge/ML%2FAI-8b5cf6?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend & ML** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-8b5cf6?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Tools & Platforms**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 </div>
