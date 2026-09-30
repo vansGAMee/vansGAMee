@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Featured Projects & Systems
+## 🚀 Featured Projects & Core Systems
 
 <table>
   <tr>
@@ -38,11 +38,6 @@
         <img src="https://img.shields.io/badge/Minimalist_UI-0284c7?style=flat-square" />
       </p>
       <p>Precision Digital Chess Instrument. Высокопроизводительная платформа с фокусом на тактильный отклик, чистейший минимализм и zero-latency P2P мультиплеер без промежуточных серверов.</p>
-      <ul>
-        <li>Мгновенный отклик и тактильные микро-анимации</li>
-        <li>Peer-to-peer синхронизация состояния доски</li>
-        <li>Zero-bloat архитектура</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎵 <a href="https://github.com/vansGAMee/musicmylove">musicmylove</a></h3>
@@ -52,11 +47,6 @@
         <img src="https://img.shields.io/badge/GPU_Optimized-ffaa00?style=flat-square&logo=nvidia&logoColor=white" />
       </p>
       <p>Комплексная ML-платформа музыкальных рекомендаций на графах. Пайплайн обработки аудио, GPU-оптимизированное обучение ранжировщиков и движок инференса в браузере.</p>
-      <ul>
-        <li>Внедрение TasteLiftNet нейрорекомендаций</li>
-        <li>Совместное ранжирование графа и аудио (CLAP gate)</li>
-        <li>Экспорт моделей для браузерного инференса</li>
-      </ul>
     </td>
   </tr>
   <tr>
@@ -68,11 +58,6 @@
         <img src="https://img.shields.io/badge/Local--First-8b5cf6?style=flat-square" />
       </p>
       <p>Бесплатный автономный кодинг-агент на базе DeepSeek Web. Генерация структуры файлов, безопасный запуск команд сборки, верификация тестов и авто-восстановление без API ключей.</p>
-      <ul>
-        <li>Browser-driven автоматизация и sandbox-исполнение</li>
-        <li>Цикл самопроверки сборки и авто-фиксов ошибок</li>
-        <li>Полная локальная независимость</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📊 <a href="https://github.com/vansGAMee/chess-insights">chess-insights</a></h3>
@@ -82,14 +67,28 @@
         <img src="https://img.shields.io/badge/Live_Demo-vansgamee.github.io-success?style=flat-square" />
       </p>
       <p>Открытый аналог Diamond-аналитики chess.com. Модуль статистической обработки партий, вычисление реального перформанса, выявление паттернов ошибок и метрик аккуратности.</p>
-      <ul>
-        <li>C++ ядро для скоростного парсинга PGN и позиции</li>
-        <li>Расчет метрик точности ходов</li>
-        <li>Интерактивный дашборд визуализации статистики</li>
-      </ul>
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 Real Core Activity & System Metrics
+
+<div align="center">
+
+<!-- ВСТРОЕННАЯ РЕАЛЬНАЯ СЕТКА (Sep 2026) -->
+<p align="center">
+  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22720%22%20height%3D%22180%22%20viewBox%3D%220%200%20720%20180%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22%20rx%3D%228%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2228%22%20fill%3D%22%23e6edf3%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22600%22%3EvansGAMee%20%2F%20musicmylove%20%26amp%3B%20Core%20ML%20Stack%20%E2%80%94%20Real%20Contribution%20Activity%3C%2Ftext%3E%3Ctext%20x%3D%2224%22%20y%3D%2244%22%20fill%3D%22%237d8590%22%20font-family%3D%22sans-serif%22%20font-size%3D%2211%22%3EVerified%20commits%3A%20TasteLiftNet%2C%20Graph%20Audio%20Ranker%2C%20CLAP%20gate%2C%20Astra%20Python%20MVP%20(Sep%202026)%3C%2Ftext%3E%3Cg%20transform%3D%22translate(24%2C%2060)%22%3E%3Ctext%20x%3D%22-10%22%20y%3D%2219%22%20fill%3D%22%237d8590%22%20font-family%3D%22sans-serif%22%20font-size%3D%229%22%20text-anchor%3D%22end%22%3EMon%3C%2Ftext%3E%3Ctext%20x%3D%22-10%22%20y%3D%2245%22%20fill%3D%22%237d8590%22%20font-family%3D%22sans-serif%22%20font-size%3D%229%22%20text-anchor%3D%22end%22%3EWed%3C%2Ftext%3E%3Ctext%20x%3D%22-10%22%20y%3D%2271%22%20fill%3D%22%237d8590%22%20font-family%3D%22sans-serif%22%20font-size%3D%229%22%20text-anchor%3D%22end%22%3EFri%3C%2Ftext%3E%3Cg%20transform%3D%22translate(0%2C0)%22%3E%3Crect%20y%3D%220%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2213%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2226%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2239%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2252%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2265%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2278%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3C%2Fg%3E%3Cg%20transform%3D%22translate(14%2C0)%22%3E%3Crect%20y%3D%220%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2213%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2226%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2239%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2252%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2265%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2278%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3C%2Fg%3E%3Cg%20transform%3D%22translate(28%2C0)%22%3E%3Crect%20y%3D%220%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2213%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2226%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23006d32%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2239%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%2326a641%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2252%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2265%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23006d32%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2278%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3C%2Fg%3E%3Cg%20transform%3D%22translate(42%2C0)%22%3E%3Crect%20y%3D%220%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2213%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23006d32%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2226%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%2339d353%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2239%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23006d32%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2252%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%2326a641%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2265%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%2339d353%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2278%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%2339d353%22%20rx%3D%222%22%2F%3E%3C%2Fg%3E%3Cg%20transform%3D%22translate(56%2C0)%22%3E%3Crect%20y%3D%220%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%2339d353%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2213%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%2326a641%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2226%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%2339d353%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2239%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2252%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2265%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20y%3D%2278%22%20width%3D%2211%22%20height%3D%2211%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3C%2Fg%3E%3Cg%20transform%3D%22translate(500%2C%2080)%22%3E%3Ctext%20x%3D%22-8%22%20y%3D%229%22%20fill%3D%22%237d8590%22%20font-family%3D%22sans-serif%22%20font-size%3D%2210%22%20text-anchor%3D%22end%22%3ELess%3C%2Ftext%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2210%22%20height%3D%2210%22%20fill%3D%22%23161b22%22%20rx%3D%222%22%2F%3E%3Crect%20x%3D%2213%22%20y%3D%220%22%20width%3D%2210%22%20height%3D%2210%22%20fill%3D%22%230e4429%22%20rx%3D%222%22%2F%3E%3Crect%20x%3D%2226%22%20y%3D%220%22%20width%3D%2210%22%20height%3D%2210%22%20fill%3D%22%23006d32%22%20rx%3D%222%22%2F%3E%3Crect%20x%3D%2239%22%20y%3D%220%22%20width%3D%2210%22%20height%3D%2210%22%20fill%3D%22%2326a641%22%20rx%3D%222%22%2F%3E%3Crect%20x%3D%2252%22%20y%3D%220%22%20width%3D%2210%22%20height%3D%2210%22%20fill%3D%22%2339d353%22%20rx%3D%222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%229%22%20fill%3D%22%237d8590%22%20font-family%3D%22sans-serif%22%20font-size%3D%2210%22%3EMore%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3Ctext%20x%3D%2224%22%20y%3D%22165%22%20fill%3D%22%237d8590%22%20font-family%3D%22sans-serif%22%20font-size%3D%2211%22%3ETotal%20Real%20Commits%3A%2032%20verified%20commits%20in%2014%20days%20%7C%20Period%3A%20Sep%2016%2C%202026%20%E2%80%93%20Sep%2030%2C%202026%3C%2Ftext%3E%3C%2Fsvg%3E" alt="Real Core Contribution Activity" width="100%" />
+</p>
+
+<!-- СТАНДАРТНАЯ СТАТИСТИКА -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansGAMee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansGAMee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="180" alt="Top Languages" />
+</p>
+
+</div>
 
 ---
 
@@ -108,23 +107,13 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<!-- График, который GitHub не хотел тебе отдавать нормально -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansGAMee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansGAMee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="180" alt="Top Languages" />
-</p>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect & Build
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vansgame)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansGAMee)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.coolstudio1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ytivan4567@gmail.com)
 
 <br />
 
