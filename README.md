@@ -16,7 +16,114 @@
 
 ---
 
-</div>
+</div><svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200" fill="none">
+  <style>
+    .bg { fill: #0d1117; rx: 8px; }
+    .text-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #e6edf3; font-weight: 600; }
+    .text-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #7d8590; }
+    .c-0 { fill: #161b22; rx: 2px; }
+    .c-1 { fill: #0e4429; rx: 2px; }
+    .c-2 { fill: #006d32; rx: 2px; }
+    .c-3 { fill: #26a641; rx: 2px; }
+    .c-4 { fill: #39d353; rx: 2px; }
+    .leg { rx: 2px; width: 10px; height: 10px; }
+  </style>
+
+  <rect width="100%" height="100%" class="bg" />
+
+  <text x="24" y="28" class="text-title">vansGAMee / musicmylove &amp; Core ML Stack — Real Contribution Activity</text>
+  <text x="24" y="44" class="text-sub">Verified commits: TasteLiftNet, Graph Audio Ranker, CLAP gate, Astra Python MVP (Sep 2026)</text>
+
+  <!-- WEEKS COLUMNS (Sep 14 to Sep 30, 2026) -->
+  <g transform="translate(24, 60)">
+    <!-- Days of week labels -->
+    <text x="-12" y="19" class="text-sub" text-anchor="end" font-size="9">Mon</text>
+    <text x="-12" y="45" class="text-sub" text-anchor="end" font-size="9">Wed</text>
+    <text x="-12" y="71" class="text-sub" text-anchor="end" font-size="9">Fri</text>
+
+    <!-- Past inactive context weeks -->
+    <g transform="translate(0, 0)">
+      <rect y="0" width="11" height="11" class="c-0" />
+      <rect y="13" width="11" height="11" class="c-0" />
+      <rect y="26" width="11" height="11" class="c-0" />
+      <rect y="39" width="11" height="11" class="c-0" />
+      <rect y="52" width="11" height="11" class="c-0" />
+      <rect y="65" width="11" height="11" class="c-0" />
+      <rect y="78" width="11" height="11" class="c-0" />
+    </g>
+    <g transform="translate(14, 0)">
+      <rect y="0" width="11" height="11" class="c-0" />
+      <rect y="13" width="11" height="11" class="c-0" />
+      <rect y="26" width="11" height="11" class="c-0" />
+      <rect y="39" width="11" height="11" class="c-0" />
+      <rect y="52" width="11" height="11" class="c-0" />
+      <rect y="65" width="11" height="11" class="c-0" />
+      <rect y="78" width="11" height="11" class="c-0" />
+    </g>
+
+    <!-- Week 1: Sep 14 - Sep 20 -->
+    <g transform="translate(28, 0)">
+      <rect y="0" width="11" height="11" class="c-0"><title>Sep 14: No commits</title></rect>
+      <rect y="13" width="11" height="11" class="c-0"><title>Sep 15: No commits</title></rect>
+      <!-- Sep 16: 1 commit (feat tastelift 500 tracks) -->
+      <rect y="26" width="11" height="11" class="c-2"><title>Sep 16: 1 commit (tastelift catalog)</title></rect>
+      <!-- Sep 17: 2 commits (persist favorites, dynamic hard negatives) -->
+      <rect y="39" width="11" height="11" class="c-3"><title>Sep 17: 2 commits (persist favorites, negatives)</title></rect>
+      <rect y="52" width="11" height="11" class="c-0"><title>Sep 18: No commits</title></rect>
+      <!-- Sep 19: 1 commit (save current MusicMyLove) -->
+      <rect y="65" width="11" height="11" class="c-2"><title>Sep 19: 1 commit (save MusicMyLove)</title></rect>
+      <rect y="78" width="11" height="11" class="c-0"><title>Sep 20: No commits</title></rect>
+    </g>
+
+    <!-- Week 2: Sep 21 - Sep 27 (MASSIVE SURGE) -->
+    <g transform="translate(42, 0)">
+      <rect y="0" width="11" height="11" class="c-0"><title>Sep 21: No commits</title></rect>
+      <!-- Sep 22: 1 commit (checkpoint before real neural) -->
+      <rect y="13" width="11" height="11" class="c-2"><title>Sep 22: 1 commit (checkpoint before neural)</title></rect>
+      <!-- Sep 23: 8 COMMITS (TasteLiftNet, Stage A, Astra MVP, vercel deploy) -->
+      <rect y="26" width="11" height="11" class="c-4"><title>Sep 23: 8 commits (TasteLiftNet, Stage A, Astra MVP)</title></rect>
+      <!-- Sep 24: 1 commit (Python discovery ranking) -->
+      <rect y="39" width="11" height="11" class="c-2"><title>Sep 24: 1 commit (Python ranking, offline graph)</title></rect>
+      <!-- Sep 25: 2 commits (inference CLI, profile matching) -->
+      <rect y="52" width="11" height="11" class="c-3"><title>Sep 25: 2 commits (CLI profile matching, inference)</title></rect>
+      <!-- Sep 26: 4 commits (disjoint users, residual ranking, personal feedback) -->
+      <rect y="65" width="11" height="11" class="c-4"><title>Sep 26: 4 commits (disjoint users, residual ranker)</title></rect>
+      <!-- Sep 27: 5 commits (checkpoint, CLI discovery, streamed data) -->
+      <rect y="78" width="11" height="11" class="c-4"><title>Sep 27: 5 commits (CLI discovery, stream ranker)</title></rect>
+    </g>
+
+    <!-- Week 3: Sep 28 - Sep 30 -->
+    <g transform="translate(56, 0)">
+      <!-- Sep 28: 5 COMMITS (GPU sync, browser inference, CLAP, preview pipelines) -->
+      <rect y="0" width="11" height="11" class="c-4"><title>Sep 28: 5 commits (GPU sync bypass, joint ranker, CLAP)</title></rect>
+      <!-- Sep 29: 2 commits (frozen joint model, neutral population audit) -->
+      <rect y="13" width="11" height="11" class="c-3"><title>Sep 29: 2 commits (frozen joint model, audit)</title></rect>
+      <!-- Sep 30: 3 COMMITS (PR #1 merge, responsive import test, README) -->
+      <rect y="26" width="11" height="11" class="c-4"><title>Sep 30: 3 commits (PR #1 merge, styles, README)</title></rect>
+      <rect y="39" width="11" height="11" class="c-0" />
+      <rect y="52" width="11" height="11" class="c-0" />
+      <rect y="65" width="11" height="11" class="c-0" />
+      <rect y="78" width="11" height="11" class="c-0" />
+    </g>
+
+    <!-- Legend -->
+    <g transform="translate(500, 100)">
+      <text x="-8" y="9" class="text-sub" text-anchor="end" font-size="10">Less</text>
+      <rect x="0" y="0" class="leg c-0" />
+      <rect x="13" y="0" class="leg c-1" />
+      <rect x="26" y="0" class="leg c-2" />
+      <rect x="39" y="0" class="leg c-3" />
+      <rect x="52" y="0" class="leg c-4" />
+      <text x="70" y="9" class="text-sub" font-size="10">More</text>
+    </g>
+  </g>
+
+  <!-- Summary bar -->
+  <g transform="translate(24, 175)">
+    <text x="0" y="0" class="text-sub" font-size="11">Total Real Commits: <tspan fill="#39d353" font-weight="600">32 verified commits</tspan> in 14 days | Period: Sep 16, 2026 – Sep 30, 2026</text>
+  </g>
+</svg>
+
 
 ## 🧭 About Me
 
@@ -27,6 +134,11 @@
 ---
 
 ## 🚀 Featured Projects & Real Cases
+
+![Real Graph Activity](./musicmylove-activity.svg)
+<img width="720" height="200" alt="gemini-svg" src="https://github.com/user-attachments/assets/c29dfd94-cebf-4e09-ba6c-b35ed8c47d72" />
+
+
 
 <table>
   <tr>
